@@ -28,6 +28,5 @@ The portfolio was made with responsive design in mind so it should be viewable o
 
 ## Submission:
 
-The live URL: https://anaeem23.github.io/Northwestern_BootCamp-01-Homework/
+The live URL: https://anaeem23.github.io/Northwestern_BootCamp-02-Homework/
 
-A Screenshot of the website: ![Screenshot of website](./assets/images/Website-example.png)
